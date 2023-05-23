@@ -9,7 +9,7 @@ FORTIGATE SSL 인증서를 endpoint에 간편하게 넣을려고 만든 exe 파�
 3. car.zip을 링크공유 해서 해당 링크를 "URL"에 입력 한다.
 
 *주의점* 
-링크공유하고 링크복사를 누른다음에 도메인창에 입력해보면 "view" 형태로 보일건데 다운로드한번 클릭하고 도메인창에 있는 주소를 복사해서 "URL"에 입력하면 된다.
+링크공유하고 링크복사를 누른다음에 도메인창에 입력해보면 "view" 형태로 보일건데 다운로드 한번 클릭하고 도메인창에 있는 주소를 복사해서 "URL"에 입력하면 된다.
 
 ex) https://drive.google.com/u/0/uc?id=1M7MzmqQreVT0&export=download
 
