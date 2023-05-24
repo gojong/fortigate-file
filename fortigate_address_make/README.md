@@ -11,6 +11,7 @@ fortigate address cli로 한번에 붙여넣기 할려고 만든 프로그램 �
 
 결과물 
 
+
 config firewall address
     edit "2.2.2.3"
     set type ipmask
@@ -19,7 +20,6 @@ config firewall address
 end
 
 config firewall address
-
     edit "2.2.2.4"
     set type ipmask
     set subnet 2.2.2.4/32
