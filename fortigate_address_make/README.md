@@ -19,6 +19,7 @@ config firewall address
 end
 
 config firewall address
+
     edit "2.2.2.4"
     set type ipmask
     set subnet 2.2.2.4/32
