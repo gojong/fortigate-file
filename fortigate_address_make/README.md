@@ -6,24 +6,26 @@
 
 해당 example.txt 에는 아래처럼 아이피를 입력하시면 됩니다.
 ```
-2.2.2.3 255.255.255.254
-2.2.2.4/32
+1.1.1.1 255.255.255.0
+2.2.2.2/30
+6.6.6.6 2222
+9.9.9.99 23232323.232323
+2.2222.2
+4214214123
 ```
 
 결과물 
 
 ```
 config firewall address
-    edit "2.2.2.3"
-    set type ipmask
-    set subnet 2.2.2.3 255.255.255.254
-    next
-end
+edit "1.1.1.1/24"
+set type ipmask
+set subnet 1.1.1.1/24
+next
 
-config firewall address
-    edit "2.2.2.4"
-    set type ipmask
-    set subnet 2.2.2.4/32
-    next
+edit "2.2.2.2/30"
+set type ipmask
+set subnet 2.2.2.2/30
+next
 end
 ```
