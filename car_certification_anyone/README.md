@@ -1,9 +1,7 @@
 안녕하세요.
 
 FORTIGATE SSL 인증서를 endpoint에 간편하게 넣을려고 만든 exe 파일입니다.
-
-deep-Certificate를 사용할려면 모든 endpoint에 car를 등록 해줘야하는데
-
+deep-Certificate를 사용할려면 모든 endpoint에 car를 등록 해줘야하는데.
 저희 회사에는 AD를 사용 안하기 때문에 일일이 넣어주기 힘들어서 제작한 프로그램 입니다.
 
 사용하는 방법 안내 해드리겠습니다.
