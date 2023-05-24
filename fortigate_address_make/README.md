@@ -1,4 +1,4 @@
-안녕하세요.
+## 사용방법
 
 * fortigate address cli로 한번에 붙여넣기 할려고 만든 프로그램 입니다.
 * 프로그램 실행후 load input File에 example.txt 을 선택 하고 run 버튼을 클릭 하시면 됩니다.
