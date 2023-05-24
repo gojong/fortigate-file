@@ -1,4 +1,3 @@
-안녕하세요.
 
 # 설명
 * FORTIGATE SSL 인증서를 endpoint에 간편하게 넣을려고 만든 exe 파일입니다.
