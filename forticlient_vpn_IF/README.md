@@ -13,5 +13,5 @@
 ![VPN](https://github.com/gojong/fortigate-file/assets/87437300/afbcd86b-e36c-47ef-8ffc-e8ddbdea13a3)
 
 # 주의사항
-* save login을 미리 등록하게 된다면 모든 endpoint에 해당 계정이 미리 등록되어있습니다.
+* save login을 미리 등록하게 된다면 all endpoint에 해당 계정이 등록 되어있습니다.
 * 백업후 해당파일을 .zip으로 압축후 구글드라이브에 업로드하고 공유 해주시면 됩니다.
