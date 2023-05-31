@@ -6,8 +6,8 @@
 
 
 # 사용방법
-* "백업" 은 FortiClient VPN에 저장한 값을 백업 합니다.
-* "VPN 등록" 은 구글드라이브에 등록한 zip 파일을 endpoint에 다운로드후 등록 합니다.(다운로드 파일은 등록후 자동삭제)
+* "백업"  FortiClient VPN에 저장한 값을 백업 합니다.
+* "VPN 등록"  구글드라이브에 등록한 zip 파일을 endpoint에 다운로드후 등록 합니다.(다운로드 파일은 등록후 자동삭제)
 * "Manual" 해당 페이지로 접속 합니다.
 
 ![VPN](https://github.com/gojong/fortigate-file/assets/87437300/afbcd86b-e36c-47ef-8ffc-e8ddbdea13a3)
