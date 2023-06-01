@@ -6,7 +6,7 @@
 
 
 # 사용방법
-* "VPN 설치" FORTIGATE VPN only 7.0.8 version을 download 합니다. (fortinet server에서 받는게 아니라서 엄청 빠릅니다.)
+* "VPN 설치" FORTIGATE VPN only 7.0.8 version을 바탕화면에 download 합니다. (fortinet server에서 받는게 아니라서 엄청 빠릅니다.)
 * "BackUP"  FortiClient VPN에 저장한 값을 백업 합니다.
 * "VPN 등록"  BackUP 했던 파일을 endpoint에 등록 합니다.
 * "Manual" 해당 페이지로 접속 합니다.
