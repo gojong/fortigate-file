@@ -8,7 +8,7 @@
 # 사용방법
 * "VPN 설치" FORTIGATE VPN only 7.0.8 version을 download 합니다. (fortinet server에서 받는게 아니라서 엄청 빠릅니다.)
 * "BackUP"  FortiClient VPN에 저장한 값을 백업 합니다.
-* "VPN 등록"  구글드라이브에 등록한 zip 파일을 endpoint에 다운로드후 등록 합니다.(다운로드 파일은 등록후 자동삭제)
+* "VPN 등록"  BackUP 했던 파일을 endpoint에 등록 합니다.
 * "Manual" 해당 페이지로 접속 합니다.
 
 ![vpn](https://github.com/gojong/fortigate-file/assets/87437300/efddb61e-69bc-40ba-990c-6df92bd24c87)
@@ -16,4 +16,4 @@
 
 # 주의사항
 * save login에 ID를 입력할 경우 "vpn 등록" 사용한 pc에 해당 계정이 등록 되어있습니다.
-* 백업후 해당파일을 .zip으로 압축후 구글드라이브에 업로드하고 공유 해주시면 됩니다.
+* "VPN 등록"은 백업한 파일을 zip으로 만든후 구글드라이브에 업로드하고 공유해서 링크를 복사후 등록해서 사용합니다.
