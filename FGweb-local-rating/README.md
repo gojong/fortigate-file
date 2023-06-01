@@ -17,8 +17,6 @@ config webfilter ftgd-local-rating
         set rating 140
         set status enable
     next
-end
-config webfilter ftgd-local-rating
     edit "adc.ttd.kr"
         set rating 140
         set status enable
